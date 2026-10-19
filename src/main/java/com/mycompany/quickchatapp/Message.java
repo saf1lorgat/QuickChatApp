@@ -4,6 +4,7 @@ package com.mycompany.quickchatapp;
 // message length limit
 // message ID generation
 // hash algorithm
+// messaging complete
 import java.util.Random;
 
 /**
