@@ -2,6 +2,7 @@ package com.mycompany.quickchatapp;
 // Part 1 Step 2
 // checking username
 // checking password
+// registration logic
 import java.util.regex.Pattern;
 // check
 /**
