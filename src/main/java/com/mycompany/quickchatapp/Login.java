@@ -1,6 +1,7 @@
 package com.mycompany.quickchatapp;
 // Part 1 Step 2
 // checking username
+// checking password
 import java.util.regex.Pattern;
 // check
 /**
