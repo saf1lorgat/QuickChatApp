@@ -1,5 +1,6 @@
 package com.mycompany.quickchatapp;
 // Part 2 Message class
+// cell format check
 import java.util.Random;
 
 /**
