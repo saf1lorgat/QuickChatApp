@@ -3,6 +3,7 @@ package com.mycompany.quickchatapp;
 // cell format check
 // message length limit
 // message ID generation
+// hash algorithm
 import java.util.Random;
 
 /**
