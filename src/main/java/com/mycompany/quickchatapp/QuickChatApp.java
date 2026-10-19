@@ -203,6 +203,7 @@ public class QuickChatApp {
                 break;
             default:
                 System.out.println("Invalid choice.");
+                
                 // project complete
         }
     }
