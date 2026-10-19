@@ -1,6 +1,7 @@
 package com.mycompany.quickchatapp;
 // Main app menu loop
 // message arrays and storage
+// reports and analytics
 import java.util.ArrayList;
 import java.util.Scanner;
 
