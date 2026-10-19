@@ -2,6 +2,7 @@ package com.mycompany.quickchatapp;
 // Part 2 Message class
 // cell format check
 // message length limit
+// message ID generation
 import java.util.Random;
 
 /**
